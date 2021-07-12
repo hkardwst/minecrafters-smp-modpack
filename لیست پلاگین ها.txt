@@ -1,7 +1,0 @@
-ECONOMYSHOPGUI / SHOP هست/
-ESSENTIALS X / برای پیوستن همه پلاگین ها هست (خیلی مهم)/
-GRIEF PREVENTION / CLAIM برای/
-LUCKPERMS / برای اجازه های کامند ها/
-SCOREBOARD-R / برای اطلاعات کنار صفحه/
-PLACEHOLDER API / (SCOREBOARD-R خیلی مهم برای) SCOREBOARD-R برای دادن اطلاعات به/
-VAULT / پول/
